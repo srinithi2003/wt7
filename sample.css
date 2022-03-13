@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(231, 58, 15);
+    font-size: medium;
+    
+}
+.ex{
+    text-align: center;
+    background-color: pink;
+    border: 3px dotted blue;
+    border-radius: 100px;
+}
